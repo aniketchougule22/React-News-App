@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React-News-App
+
+React-News-App is a news app which can be used to grab quick daily news bites. If you are interested in news, weather, politics and sports news, NewsMonkey is for you.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
